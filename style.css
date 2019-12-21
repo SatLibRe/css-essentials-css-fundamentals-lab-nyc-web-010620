@@ -12,3 +12,9 @@ img {
   display: block;
   margin: auto;
 }
+
+nav a{
+  background-color: blue; 
+  padding-left: 10px;
+  padding-right: 10px;
+}
